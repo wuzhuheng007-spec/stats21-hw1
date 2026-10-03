@@ -1,0 +1,3 @@
+My name is Zhuheng Wu.
+This repository is for Stats 21 Homework 1.
+I am practicing using GitHub.
