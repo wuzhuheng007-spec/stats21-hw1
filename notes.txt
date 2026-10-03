@@ -2,3 +2,4 @@ My name is Zhuheng Wu.
 This repository is for Stats 21 Homework 1.
 I am practicing using GitHub.
 I am learning how to track file changes with Git.
+This line was added in VS Code on my computer.
